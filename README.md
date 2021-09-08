@@ -1,5 +1,5 @@
 ### Here is whay i'm working on! 👋
-
+![](https://komarev.com/ghpvc/?username=hugoresende27)
 <!--
 **hugoresende27/hugoresende27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
