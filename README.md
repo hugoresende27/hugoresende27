@@ -1,4 +1,4 @@
-### Here is whay i'm working on! 👋
+### Here is what i'm working on! 👋
 ![](https://komarev.com/ghpvc/?username=hugoresende27)
 
 
