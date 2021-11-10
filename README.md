@@ -15,6 +15,9 @@
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hugoresende27)](https://github.com/hugoresende27/github-readme-stats) -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hugoresende27&show_icons=true)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hugoresende27&theme=dark&show_icons=true)
+
+
 
 
 
