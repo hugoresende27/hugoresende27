@@ -1,7 +1,7 @@
 ### Here is what i'm working on! 👋
 ![](https://komarev.com/ghpvc/?username=hugoresende27)
 
-▶️ [Portfolio](https://hugoresende27.github.io/portfolio/index.html)
+▶️ [Portfolio](https://hugoresende.pt/)
 
 ▶️ [LinkedIn](https://www.linkedin.com/in/hugo-resende-781ab1111/) 
 
